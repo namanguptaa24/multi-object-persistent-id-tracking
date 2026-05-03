@@ -21,7 +21,8 @@ st.markdown("""
 
 st.subheader("Final Annotated Output Video")
 
-st.video("final_tracked_output.mp4")
+st.markdown("### Public Hosted Video Demo")
+st.markdown("[Click Here to View Final Annotated Output Video](https://drive.google.com/file/d/1jnTccmztuLyuktLRA4Z5kyJJm5Wu_2-C/view?usp=sharing)")
 
 st.subheader("Sample Result Screenshots")
 
