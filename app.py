@@ -21,9 +21,7 @@ st.markdown("""
 
 st.subheader("Final Annotated Output Video")
 
-video_file = open("final_tracked_output.mp4", "rb")
-video_bytes = video_file.read()
-st.video(video_bytes)
+st.video("final_tracked_output.mp4")
 
 st.subheader("Sample Result Screenshots")
 
